@@ -1,0 +1,45 @@
+/* تنسيقات بسيطة وعادية */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.navbar {
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+h1, h2 {
+    color: #222;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    background-color: white;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #eee;
+}
+
+form {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+    width: 300px;
+}
